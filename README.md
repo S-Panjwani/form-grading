@@ -7,7 +7,7 @@ Currently analyzes **ARM SWING ONLY** does not grade
 
 ## Demo Plots
 
-These plots show where each joint is relative to Yuji Nishida's head over a ~1.8 second clip (12 fps, 27 frames). 
+These plots show where each joint is relative to Yuji Nishida's head over a ~2 second clip (12 fps, 27 frames). 
 
 **Relative to Left Ear**  
 <img src="data/processed/landmark_plot_left_ear.png" width="80%">
