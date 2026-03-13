@@ -49,5 +49,4 @@ All coordinates are normalized to `[0, 1]` relative to the video frame.
 
 ## Credits
 
-- Pose estimation: [MediaPipe Pose](https://google.github.io/mediapipe/solutions/pose.html)
 - Demo footage: **【必見】プロがバレーボール上達させます！/ 西田有志 Yuji Nishida**
