@@ -5,7 +5,7 @@ A **volleyball drill analyzer** that uses pose estimation to track upper-body mo
 
 ## Demo Plots
 
-These plots show where each joint is relative to the player's head over a ~1.8 second clip (12 fps, 27 frames). The big convergence spike around **~0.9s** is the moment of contact — you can see the wrists snap down and the elbows flare out right around then.
+These plots show where each joint is relative to Yuji Nishida's head over a ~1.8 second clip (12 fps, 27 frames). The big convergence spike around **~0.9s** is the moment of contact — you can see the wrists snap down and the elbows flare out right around then.
 
 **Relative to Left Ear**
 ![Landmark Position Relative to Left Ear](data/processed/landmark_plot_left_ear.png)
