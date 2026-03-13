@@ -1,5 +1,6 @@
 # Volleyball Form Grader
-A **volleyball drill analyzer** that uses pose estimation to track upper-body movement and break down arm swing form.
+Currently analyzes **ARM SWING ONLY** does not grade
+last update - 2026-03-13
 
 ---
 
