@@ -1,6 +1,7 @@
 # Volleyball Form Grader
 Currently analyzes **ARM SWING ONLY** does not grade
-last update - 2026-03-13
+
+**last update - 2026-03-13**
 
 ---
 
@@ -9,10 +10,10 @@ last update - 2026-03-13
 These plots show where each joint is relative to Yuji Nishida's head over a ~1.8 second clip (12 fps, 27 frames). The big convergence spike around **~0.9s** is the moment of contact — you can see the wrists snap down and the elbows flare out right around then.
 
 **Relative to Left Ear**  
-<img src="data/processed/landmark_plot_left_ear.png" width="70%">
+<img src="data/processed/landmark_plot_left_ear.png" width="80%">
 
 **Relative to Right Ear**  
-<img src="data/processed/landmark_plot_right_ear.png" width="70%">
+<img src="data/processed/landmark_plot_right_ear.png" width="80%">
 
 ---
 
